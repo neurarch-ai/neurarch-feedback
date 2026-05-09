@@ -1,12 +1,22 @@
 <div align="center">
 
+<a href="https://neurarch.com">
+  <img src="./assets/hero.svg" alt="Neurarch" width="100%" />
+</a>
+
 # Neurarch
 
 ### Design, train, and ship ML models — without writing boilerplate.
 
 A visual AI/ML studio: drag together an architecture on a canvas, let an AI agent write the model from a sentence, train on cloud GPUs, and export production-ready PyTorch code in one click.
 
-**[🚀 Try Neurarch at neurarch.com →](https://neurarch.com)** &nbsp;·&nbsp; **[𝕏 @NeurarchAI](https://x.com/NeurarchAI)**
+**[🚀 Try Neurarch at neurarch.com →](https://neurarch.com)**
+
+[![Open issues](https://img.shields.io/github/issues/neurarch-ai/neurarch-feedback?label=open%20issues&color=2ea44f)](https://github.com/neurarch-ai/neurarch-feedback/issues)
+[![Discussions](https://img.shields.io/github/discussions/neurarch-ai/neurarch-feedback?color=8a5cf6)](https://github.com/neurarch-ai/neurarch-feedback/discussions)
+[![Follow on X](https://img.shields.io/badge/follow-%40NeurarchAI-000?logo=x&logoColor=white)](https://x.com/NeurarchAI)
+
+**English** · [中文](./README.zh-CN.md)
 
 </div>
 
@@ -14,9 +24,7 @@ A visual AI/ML studio: drag together an architecture on a canvas, let an AI agen
 
 ## 📬 About this repo
 
-This is the **public feedback & issue tracker** for Neurarch. The Neurarch source code is **private** — this repo only exists so users can report bugs, request features, ask questions, and follow what's being worked on.
-
-> If you're looking for the product, head to **[neurarch.com](https://neurarch.com)**.
+This is the public home for **bug reports, feature requests, and discussions** about Neurarch. If you're looking for the product itself, head to **[neurarch.com](https://neurarch.com)**.
 
 ## 🗣 File feedback
 
